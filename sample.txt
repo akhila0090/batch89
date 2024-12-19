@@ -1,1 +1,2 @@
-hello...iam in git class
+hello...iam in git class.
+I added a new sentance
